@@ -6,7 +6,7 @@
 </div>
 
 ## About me
-___
+
 
 <p align="justify">
 I'm 24 years old and I'm currently working on my double degree bachelor in business information technology. I'm looking forward to continue studying at <a href="https://www.hs-offenburg.de/">offenburg.university</a> in Germany as well as <a href="https://www.hamk.fi/">Häme University of Applied Sciences</a> in Finnland. 
@@ -21,7 +21,7 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 <div align="center">
 
 ## coding
-___
+
 
 
 
@@ -38,7 +38,7 @@ ___
 
 </div>
 
-___
+
 
 <div align="center">
 
@@ -57,7 +57,7 @@ ___
 
 ## 🙋‍♂️ connect with me
 
-___
+
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCeIfMs87Sr-cBYApjLz8URg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
