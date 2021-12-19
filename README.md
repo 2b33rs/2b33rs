@@ -1,5 +1,5 @@
 <div align="center">
-    <p style="font-size: 3em; margin: 0px;"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://i.gifer.com/Wczc.gif" width="30px"></p>
+    <p style="font-size: 6rem; margin: 0px;"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="Wczc.gif" width="40px"></p>
     <small style="font-size: 0.9em;">I hope you have a great day!</small>
     <br>
     <br>
@@ -42,7 +42,7 @@ ___
 
 <div align="center">
 
-<img src="https://i.gifer.com/ZZ5H.gif" width=20> I’m currently learning 🌱
+<img src="ZZ5H.gif" width=20> I’m currently learning 🌱
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png" alt="python" width="100">](https://www.python.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javaScript" width="100">](https://isp.netscape.com/)
