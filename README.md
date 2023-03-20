@@ -60,8 +60,7 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 
 
 <p align="left">
-  
- <a href="#"><img alt="LinkedIn" title="LinkedIn" src="[https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/tobias-biehl-b1ba89208/)"/><img src=["https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+ <a href="#"><img alt="LinkedIn" title="LinkedIn" src="https://www.linkedin.com/in/tobias-biehl-b1ba89208/"/><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   <!-- <a href="#"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> -->
   <a href="#"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
