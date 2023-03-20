@@ -9,8 +9,7 @@
 
 
 <p align="justify">
-I'm 25 years old and I'm currently working on my double degree bachelor in business information technology. I'm looking forward to continue studying at <a href="https://www.hs-offenburg.de/">offenburg.university</a> in Germany as well as <a href="https://www.hamk.fi/">Häme University of Applied Sciences</a> in Finnland. 
-</p>
+I'm 25 years old and I'm currently working on my bachelor degree  in business information technology. I'm looking forward to continue studying at <a href="https://www.hs-offenburg.de/">offenburg.university</a> in Germany.
 <p align="justify">
 We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/png-256/nokia-61-plus-back-1411873-1194362.png" alt="java" width="18px"> Now, most of us walk around with small computers in their pocket. We don't want to be left behind. New technology gives excitement. We want to remain updated. It makes life more comfortable. But, most important it increases our efficiency. So we can spend less time on stuff that a machine can do for us.
 <p>
