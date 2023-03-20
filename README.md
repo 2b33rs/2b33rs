@@ -29,9 +29,10 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 ### I've got the hang of it
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+    [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javaScript" width="100">](https://isp.netscape.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/html-3628838-3030115.png" alt="html5" width="100">](https://www.w3.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="CSS3" width="100">](https://www.w3.org/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3628777-3030139.png" alt="flutter" width="100">](https://flutter.dev/)
+
 [<img src="https://cdn.iconscout.com/icon/free/png-256/perl-5-458165.png" alt="perl" width="100">](https://www.perl.org/)
 
 
@@ -45,7 +46,7 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 <img src="ZZ5H.gif" width=20> I’m currently learning 🌱
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png" alt="python" width="100">](https://www.python.org/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javaScript" width="100">](https://isp.netscape.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3628777-3030139.png" alt="flutter" width="100">](https://flutter.dev/)
 
 
 
