@@ -25,7 +25,7 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 
 
 
-### I've got the hang of it
+### I know my way around
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
     [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javaScript" width="100">](https://isp.netscape.com/)
