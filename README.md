@@ -1,17 +1,13 @@
 <div align="center">
-    <p style="font-size: 6rem; margin: 0px;"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="Wczc.gif" width="40px"></p>
+    <p style="font-size: 6rem; margin: 0px;"> Hi 𝐭𝐡𝐞𝐫𝐞 <img src="Wczc.gif" width="40px"></p>
     <small style="font-size: 0.9em;">I hope you have a great day!</small>
     <br>
     <br>
 </div>
 
-## About me
-
 
 <p align="justify">
-I'm 26 years old and I'm currently working on my bachelor degree in business information systems. I'm looking forward to continue studying at <a href="https://www.hs-offenburg.de/" target="_blank">offenburg.university</a> in Germany.
-<p align="justify">
-We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/png-256/nokia-61-plus-back-1411873-1194362.png" alt="java" width="18px"> Now, most of us walk around with small computers in their pocket. We don't want to be left behind. New technology gives excitement. We want to remain updated. It makes life more comfortable. But, most important it increases our efficiency. So we can spend less time on stuff that a machine can do for us.
+I'm currently pursuing a bachelor's degree in Business Information Systems at <a href="https://www.hs-offenburg.de/" target="_blank">Offenburg University</a> in Germany. My focus is on web technologies, and I aspire to become a better Fullstack Developer. The rapid evolution of technology excites me, not just for the thrill it brings but also for its potential to enhance efficiency and make life more comfortable.
 <p>
 <br>
 <br>
@@ -19,20 +15,29 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 
 <div align="center">
 
-## coding
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Static Badge](https://img.shields.io/badge/-php-%232A2F3D?style=flat-square&logo=phpmyadmin&logoColor=%23777BB4)
 
 
 
-
-
-### I know my way around
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-    [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javaScript" width="100">](https://isp.netscape.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/html-3628838-3030115.png" alt="html5" width="100">](https://www.w3.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="CSS3" width="100">](https://www.w3.org/)
-
-[<img src="https://cdn.iconscout.com/icon/free/png-256/perl-5-458165.png" alt="perl" width="100">](https://www.perl.org/)
 
 
 
@@ -41,8 +46,6 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 
 
 <div align="center">
-
-<img src="ZZ5H.gif" width=20> I’m currently learning 🌱
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png" alt="python" width="100">](https://www.python.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3628777-3030139.png" alt="flutter" width="100">](https://flutter.dev/)
@@ -52,19 +55,7 @@ We used to have phones like this. <img src="https://cdn.iconscout.com/icon/free/
 </div>
 
 <br>
-<br>
-<br>
-
-## 🙋‍♂️ connect with me
-
-
 
 <p align="left">
  <a href="https://www.linkedin.com/in/tobias-biehl-b1ba89208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-  <!-- <a href="#"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> 
-  <a href="#"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="#"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
--->
 </p>
