@@ -35,4 +35,9 @@ Currently, I’m building a multi-agent backend platform for consolidating and i
   <a href="https://www.linkedin.com/in/tobias-biehl-b1ba89208/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <br/> 
+  <br/>
+   <a href="https://www.linkedin.com/in/tobias-biehl-b1ba89208/" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/My_Website-brown">
+  </a>
 </p>
